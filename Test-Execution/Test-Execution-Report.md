@@ -22,10 +22,10 @@
 
 | Test Case ID | Test Scenario | Actual Result | Status |
 |---|---|---|---|
-| TC001 | Register with valid details |  Account created successfully; confirmation message displayed | Passed |
-| TC002 | Register using existing email | "Email Address already exist!" message displayed  | Passed |
+| TC001 | Register with valid details |  Account created successfully; confirmation message displayed | Pass |
+| TC002 | Register using existing email | "Email Address already exist!" message displayed  | Pass |
 | TC003 | Register with empty fields | Pending | Not Executed |
-| TC004 | Login with valid credentials | Pending | Not Executed |
+| TC004 | Login with valid credentials | Successfully logged in displayed  | Pass |
 | TC005 | Login with invalid password | Pending | Not Executed |
 | TC006 | Login with invalid email | Pending | Not Executed |
 | TC007 | Login with empty fields | Pending | Not Executed |
@@ -40,9 +40,6 @@
 | TC016 | Submit checkout with missing details | Pending | Not Executed |
 | TC017 | Place an order | Pending | Not Executed |
 
-### TC001 – Account Created Evidence
-
-![Account Created](../Screenshots/TC001-Account-Created.png)
 
 ### 3. Test Execution Status Definitions
 
