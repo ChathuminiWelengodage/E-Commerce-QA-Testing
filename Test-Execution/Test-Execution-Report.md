@@ -24,7 +24,7 @@
 |---|---|---|---|
 | TC001 | Register with valid details |  Account created successfully; confirmation message displayed | Pass |
 | TC002 | Register using existing email | "Email Address already exist!" message displayed  | Pass |
-| TC003 | Register with empty fields | Pending | Not Executed |
+| TC003 | Register with empty fields | Form submission prevented because required fields were empty | Pass |
 | TC004 | Login with valid credentials | Successfully logged in displayed  | Pass |
 | TC005 | Login with invalid password | Pending | Not Executed |
 | TC006 | Login with invalid email | Pending | Not Executed |
