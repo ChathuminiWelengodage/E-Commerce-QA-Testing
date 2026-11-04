@@ -26,7 +26,7 @@
 | TC002 | Register using existing email | "Email Address already exist!" message displayed  | Pass |
 | TC003 | Register with empty fields | Form submission prevented because required fields were empty | Pass |
 | TC004 | Login with valid credentials | Successfully logged in displayed  | Pass |
-| TC005 | Login with invalid password | Pending | Not Executed |
+| TC005 | Login with invalid password |  Error message displayed; login rejected | Pass |
 | TC006 | Login with invalid email | Pending | Not Executed |
 | TC007 | Login with empty fields | Pending | Not Executed |
 | TC008 | View available products | Pending | Not Executed |
