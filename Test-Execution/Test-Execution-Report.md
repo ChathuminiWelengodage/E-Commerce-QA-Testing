@@ -27,8 +27,8 @@
 | TC003 | Register with empty fields | Form submission prevented because required fields were empty | Pass |
 | TC004 | Login with valid credentials | Successfully logged in displayed  | Pass |
 | TC005 | Login with invalid password |  Error message displayed; login rejected | Pass |
-| TC006 | Login with invalid email | "Your email or password is incorrect!" message displayed; login rejected | PASS |
-| TC007 | Login with empty fields | Pending | Not Executed |
+| TC006 | Login with invalid email | "Your email or password is incorrect!" message displayed; login rejected | Pass |
+| TC007 | Login with empty fields | "Please fill out this field." validation message displayed | Pass |
 | TC008 | View available products | Pending | Not Executed |
 | TC009 | Search for an existing product | Pending | Not Executed |
 | TC010 | View product details | Pending | Not Executed |
