@@ -62,6 +62,8 @@ Any failed test case will be investigated and documented with:
 - Severity
 - Priority
 - Screenshot evidence
+  
+Since no failed test cases were identified during this test execution, no defects were recorded.
 
 ## Conclusion
 
