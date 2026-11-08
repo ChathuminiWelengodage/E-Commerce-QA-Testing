@@ -30,7 +30,7 @@
 | TC006 | Login with invalid email | "Your email or password is incorrect!" message displayed; login rejected | Pass |
 | TC007 | Login with empty fields | "Please fill out this field." validation message displayed | Pass |
 | TC008 | View available products | Products page loaded successfully; product names and prices displayed without errors | Pass |
-| TC009 | Search for an existing product | Pending | Not Executed |
+| TC009 | Search for an existing product | Blue Top product successfully displayed in search results | Pass |
 | TC010 | View product details | Pending | Not Executed |
 | TC011 | Add product to cart | Pending | Not Executed |
 | TC012 | Remove product from cart | Pending | Not Executed |
