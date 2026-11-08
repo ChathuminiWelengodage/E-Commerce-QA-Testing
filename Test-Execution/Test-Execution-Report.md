@@ -18,6 +18,8 @@
 | Blocked | 0 |
 | Not Executed | 0 |
 
+Pass Rate: 100%
+
 ### 2. Test Execution Results
 
 | Test Case ID | Test Scenario | Actual Result | Status |
@@ -61,8 +63,8 @@ Any failed test case will be investigated and documented with:
 - Priority
 - Screenshot evidence
 
-### 5. Final Remarks
+## Conclusion
 
-Test execution is currently pending. Results will be updated as the test cases are executed.
-
-**Report Status:** In Progress
+All 17 functional test cases were executed successfully.
+No failed test cases were recorded during this test execution.
+The tested e-commerce functionalities behaved as expected.
